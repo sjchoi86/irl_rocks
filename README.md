@@ -1,5 +1,5 @@
 # Inverse Reinforcement Learning Surverys
-Cool Inverse Reinforcement Learning Papers
+### Cool Inverse Reinforcement Learning Papers
 
 [IRL Survey](https://github.com/sjchoi86/irl_rocks/blob/master/IRL_survey.pdf) includes 
 
